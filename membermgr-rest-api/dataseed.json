@@ -1,0 +1,690 @@
+{
+    "blocks" :[
+        {
+            "name":"A",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"B",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"C",
+            "branch":"VEPERY"
+        }
+    ],
+    "rooms" : [
+        {
+            "name":"1001",
+            "room_no":"1001",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1002",
+            "room_no":"1002",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1003",
+            "room_no":"1003",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1004",
+            "room_no":"1004",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1005",
+            "room_no":"1005",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1006",
+            "room_no":"1006",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1007",
+            "room_no":"1007",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"1008",
+            "room_no":"1008",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2001",
+            "room_no":"2001",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2002",
+            "room_no":"2002",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2003",
+            "room_no":"2003",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2004",
+            "room_no":"2004",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2005",
+            "room_no":"2005",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2006",
+            "room_no":"2006",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2007",
+            "room_no":"2007",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2008",
+            "room_no":"2008",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2009",
+            "room_no":"2009",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"2010",
+            "room_no":"2010",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3001",
+            "room_no":"3001",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3002",
+            "room_no":"3002",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3003",
+            "room_no":"3003",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3004",
+            "room_no":"3004",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3005",
+            "room_no":"3005",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3006",
+            "room_no":"3006",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3007",
+            "room_no":"3007",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3008",
+            "room_no":"3008",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3009",
+            "room_no":"3009",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"3010",
+            "room_no":"3010",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4001",
+            "room_no":"4001",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4002",
+            "room_no":"4002",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4003",
+            "room_no":"4003",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4004",
+            "room_no":"4004",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4005",
+            "room_no":"4005",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4006",
+            "room_no":"4006",
+            "block" : "A",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4007",
+            "room_no":"4007",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4008",
+            "room_no":"4008",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4009",
+            "room_no":"4009",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"4010",
+            "room_no":"4010",
+            "block" : "A",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5001",
+            "room_no":"5001",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5002",
+            "room_no":"5002",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5003",
+            "room_no":"5003",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5004",
+            "room_no":"5004",
+            "block" : "B",
+            "capacity":3,
+            "cost":2250,
+            "roomtype":"MFS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5005",
+            "room_no":"5005",
+            "block" : "B",
+            "capacity":4,
+            "cost":2750,
+            "roomtype":"FS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5006",
+            "room_no":"5006",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5007",
+            "room_no":"5007",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"5008",
+            "room_no":"5008",
+            "block" : "B",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6001",
+            "room_no":"6001",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6002",
+            "room_no":"6002",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6003",
+            "room_no":"6003",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6004",
+            "room_no":"6004",
+            "block" : "C",
+            "capacity":4,
+            "cost":2750,
+            "roomtype":"FS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6005",
+            "room_no":"6005",
+            "block" : "C",
+            "capacity":4,
+            "cost":2750,
+            "roomtype":"FS",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6006",
+            "room_no":"6006",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6007",
+            "room_no":"6007",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        },
+        {
+            "name":"6008",
+            "room_no":"6008",
+            "block" : "C",
+            "capacity":2,
+            "cost":1750,
+            "roomtype":"EXE",
+            "branch":"VEPERY"
+        }
+    ],
+
+    "reservation":[
+        {
+        "memberid": "1003",
+        "membername":"jega",
+        "address": {
+            "address_line": "Injambakkam",
+            "city": "Chennai",
+            "pin_code": "600115"
+        },
+        "phone_no": "8056034174",
+        "email_id": "jega@jega.in",
+        "nationality": "Indian",
+        "id_proof_type": "Adhaar",
+        "id_proof_number": "5999-3456-3423-3332",
+        "startdate": "2018-01-03",
+        "enddate": "2018-01-05",
+        "reserved_rooms" : {
+            "ms" : 2,
+            "mfs": 0,
+            "fs": 0
+        },
+        "reservation_amount": {
+            "total_tariff": 3000, 
+            "total_extra_bed": 500, 
+            "discount_percent": 25,
+            "discount_amount": 750, 
+            "total_gst": 560
+        }
+    }
+    ],
+
+
+    "booking":[
+        {
+        "memberid": "1003",
+        "membername":"jega",
+        "address": {
+            "address_line": "Injambakkam",
+            "city": "Chennai",
+            "pin_code": "600115"
+        },
+        "phone_no": "8056034174",
+        "email_id": "jega@jega.in",
+        "nationality": "Indian",
+        "id_proof_type": "Adhaar",
+        "id_proof_number": "5999-3456-3423-3332",
+        "startdate": "2018-01-03",
+        "enddate": "2018-01-05",
+        "booked_rooms" : [
+            {
+                "room_no" : "5001",
+                "room_type": "EXE",
+                "occupants": "2",
+                "extrabed": false,
+                "cost": 1750
+            },
+            {
+                "room_no" : "6003",
+                "room_type": "EXE",
+                "occupants": "1",
+                "extrabed": false,
+                "cost": 1750
+            }
+        ],
+
+        "booking_amount": {
+            "total_tariff": 3000, 
+            "total_extra_bed": 500, 
+            "discount_percent": 25,
+            "discount_amount": 750, 
+            "total_gst": 560
+        }
+    }
+    ],
+
+    "items": [
+        {
+            "itemtype" : "ARTICLE",
+            "vendor_code" : "V001",
+            "code" : "ITEM001",
+            "desc" : "Test",
+            "author" : "test",
+            "publisher" : "vikadan",
+            "yob" : "2015",
+            "edition" : "2nd",
+            "cost" : 1000,
+            "tax_per" : 10,
+            "tax_amt" : 100,
+            "selling_cost" : 1100
+        }
+    ],
+
+    "purchases" : [
+        {"vendor_inv_no":"120/2007",
+            "inv_date":"2017/10/10",
+            "vendor":"ABCD",
+            "address":"New City",
+            "city":"Chennai",
+            "phone":"8765678",
+            "line_items":[
+                {
+                "line_no" : 1000,
+                "item_code": "XYZ",
+                "description":"New Item",
+                "qty":60,
+                "unit_price":125.00,
+                "total":1200,
+                "tax_prcnt":5,
+                "tax_amt":120,
+                "net_total":1320.00
+                },
+                {
+                "line_no" : 1010,
+                "item_code": "ABC",
+                "description":"New Item2",
+                "qty":50,
+                "unit_price":125.00,
+                "total":1200,
+                "tax_prcnt":5,
+                "tax_amt":120,
+                "net_total":1820.00
+                }
+            ]
+        }
+    ],
+
+    "sales" : [
+        {"inv_no":"001",
+            "inv_date":"2017-10-28",
+            "customer":"Jega",
+            "address":"Injambakkam",
+            "city":"Chennai",
+            "phone":"8056034174",
+            "line_items":[
+                {
+                    "line_no":"1000",
+                    "item_code":"5004",
+                    "description":"Christian Songs",
+                    "qty":5,
+                    "unit_price":145.35,
+                    "total":750.00,
+                    "tax_prcnt":5,
+                    "tax_amt":12.45,
+                    "net_total":762.50
+                },
+                {
+                    "line_no":"2250",
+                    "item_code":"5010",
+                    "description":"Bible Stories",
+                    "qty":3,
+                    "unit_price":145.35,
+                    "total":750.00,
+                    "tax_prcnt":5,
+                    "tax_amt":12.45,
+                    "net_total":762.50
+                }
+            ]
+        }
+    ],
+    "itemjrnl" : [
+        {
+            "ref_no":"123456",
+            "ref_date":"2017/10/10",
+            "jnrl_type":"Purchase",
+            "item_code":"ABCD",
+            "qty":"10",
+            "unit_price":"125.00",
+            "total":"250.00",
+            "tax_prcnt":"5",
+            "tax_amt":"12.50",
+            "net_total":"262.60"
+        },
+        {
+            "ref_no":"abcdefgh",
+            "ref_date":"2017/10/10",
+            "jnrl_type":"Sales",
+            "item_code":"ABCD",
+            "qty":"-10",
+            "unit_price":"125.00",
+            "total":"250.00",
+            "tax_prcnt":"5",
+            "tax_amt":"12.50",
+            "net_total":"262.60"
+        }
+    ]
+}
